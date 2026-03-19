@@ -22,3 +22,5 @@ If a system expects a heartbeat every 500ms, a pentester can use Beacon-Ghost to
 3. Compile using:
 ```bash
 ./fbt launch_app APPID=beacon_ghost
+Legal Disclaimer
+This tool is for Educational and Ethical Testing purposes only. Unauthorized access to or disruption of radio communications is illegal in many jurisdictions. Use only on hardware you own or have explicit permission to audit.
