@@ -1,0 +1,13 @@
+App(
+    appid="beacon_ghost",
+    name="Beacon Ghost",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="beacon_ghost_app",
+    stack_size=4 * 1024,
+    fap_category="Tools",
+    fap_version="1.0",
+    fap_description="Predictive Sub-GHz Beacon Auditor",
+    fap_author="RocketGod",
+    fap_weburl="https://github.com/your-username/Beacon-Ghost",
+    fap_icon="icon.png", # You can add a ghost icon later!
+)
